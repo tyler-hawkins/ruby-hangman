@@ -1,0 +1,14 @@
+---
+:secret_word: programming
+:guesses_left: 3
+:guessed_letters:
+  r: true
+  o: true
+  g: true
+  a: true
+  i: true
+  n: true
+  b: true
+  l: true
+  t: true
+:current_guess: '_ r o g r a _ _ i n g'
